@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "axios": "^1.6.2",
+    "axios": "^1.6.8",
     "framer-motion": "^11.0.28",
     "js-cookie": "^3.0.5",
     "jwt-decode": "^4.0.0",
